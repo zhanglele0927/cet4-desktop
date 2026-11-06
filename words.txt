@@ -1,0 +1,100 @@
+acquire|获得|acquire knowledge
+approach|方法；接近|a practical approach
+assess|评估|assess the situation
+assume|假定；认为|assume responsibility
+available|可获得的|available resources
+beneficial|有益的|beneficial to health
+consequence|后果|a serious consequence
+contribute|贡献；促成|contribute to society
+convince|使信服|convince someone
+demonstrate|证明；展示|demonstrate ability
+determine|确定；决定|determine the cause
+evaluate|评价|evaluate performance
+identify|识别；确认|identify a problem
+indicate|表明|indicate a change
+influence|影响|influence behavior
+intend|打算|intend to study
+interpret|解释|interpret the results
+maintain|维持；主张|maintain a balance
+obtain|获得|obtain information
+participate|参与|participate in activities
+predict|预测|predict the future
+promote|促进|promote development
+recognize|认出；承认|recognize the importance
+recommend|推荐|recommend a book
+reduce|减少|reduce costs
+reflect|反映；思考|reflect on experience
+relate|关联|relate to daily life
+require|要求；需要|require attention
+respond|回应|respond to a question
+significant|重要的；显著的|a significant difference
+similar|相似的|similar interests
+specific|具体的|a specific example
+survey|调查|conduct a survey
+tend|倾向于|tend to agree
+typical|典型的|a typical example
+understanding|理解|a deeper understanding
+vary|变化|vary from person to person
+willing|愿意的|be willing to help
+abundant|丰富的|abundant resources
+accurate|准确的|accurate information
+apparent|明显的|an apparent advantage
+approximate|大约的；近似的|an approximate number
+artificial|人工的|artificial intelligence
+compensate|补偿|compensate for a loss
+conservative|保守的|a conservative estimate
+considerable|相当多的|considerable effort
+contrast|对比|in contrast
+decline|下降；拒绝|a decline in demand
+eliminate|消除|eliminate errors
+emerge|出现|emerge from difficulty
+evidence|证据|provide evidence
+excessive|过多的|excessive pressure
+feasible|可行的|a feasible solution
+fundamental|根本的|a fundamental principle
+generate|产生|generate electricity
+implement|实施|implement a plan
+inferior|较差的|inferior quality
+justify|证明正当|justify a decision
+negative|负面的|a negative effect
+objective|客观的；目标|an objective view
+obscure|模糊的|an obscure meaning
+overlook|忽视|overlook a detail
+perceive|察觉|perceive a difference
+persist|坚持|persist in doing
+phenomenon|现象|a social phenomenon
+positive|积极的|a positive attitude
+precise|精确的|a precise description
+primary|主要的|a primary concern
+principle|原则|a basic principle
+profound|深刻的|a profound influence
+reluctant|不情愿的|be reluctant to leave
+reveal|揭示|reveal the truth
+substitute|替代|substitute for sugar
+subtle|微妙的|a subtle difference
+sufficient|足够的|sufficient time
+temporary|暂时的|a temporary solution
+transform|转变|transform society
+crucial|关键的|a crucial role
+enhance|提升|enhance efficiency
+alleviate|缓解|alleviate stress
+facilitate|使便利；促进|facilitate communication
+emphasize|强调|emphasize the importance
+neglect|忽视|neglect health
+obstacle|障碍|overcome an obstacle
+priority|优先事项|a top priority
+reliable|可靠的|a reliable source
+sustainable|可持续的|sustainable development
+ultimately|最终|ultimately succeed
+widespread|广泛的|widespread concern
+innovation|创新|technological innovation
+efficiency|效率|improve efficiency
+digital|数字的|digital technology
+academic|学术的|academic achievement
+competence|能力|professional competence
+consciousness|意识|public consciousness
+environment|环境|protect the environment
+emission|排放|carbon emissions
+responsibility|责任|take responsibility
+heritage|遗产|cultural heritage
+welfare|福利|social welfare
